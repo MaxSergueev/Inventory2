@@ -1,10 +1,6 @@
 #include "inventory.h"
 #include <iostream>
 
-//void Inventory::addItem(std::unique_ptr<Item> item) {
-//    items.push_back(std::move(item));
-//}
-
 void Inventory::listItems() const {
     if (items.empty()) {
         std::cout << "Inventory is empty." << std::endl;
@@ -30,4 +26,16 @@ void Inventory::setFire() {
         }), items.end());
 
     std::cout << " ------------------------------- " << std::endl;
+}
+
+void Inventory::addItemSorted(std::unique_ptr<Item> item) {
+    auto it = std::find_if(
+        items.begin(),
+        items.end(),
+        [&item](const std::unique_ptr<Item>& existingItem) {
+            return existingItem->getItemType() > item->getItemType();
+        }
+    );
+
+    items.insert(it, std::move(item));
 }

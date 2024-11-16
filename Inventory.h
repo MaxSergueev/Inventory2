@@ -5,21 +5,17 @@
 
 class Inventory {
 private:
-    //std::vector<std::unique_ptr<Item>> items; // Use smart pointers for automatic memory management
 
 public:
 
-    std::vector<std::unique_ptr<Item>> items; // Use smart pointers for automatic memory management
+    std::vector<std::unique_ptr<Item>> items;
 
-    // Function to add an item to the inventory
-    //void addItem(std::unique_ptr<Item> item);
-
-    // Function to list all items in the inventory
     void listItems() const;
 
     void setFire();
 
-    // Overloaded operators
+    void addItemSorted(std::unique_ptr<Item> item);
+
     Inventory& operator+(std::unique_ptr<Item> item) {
         items.push_back(std::move(item));
         return *this;
