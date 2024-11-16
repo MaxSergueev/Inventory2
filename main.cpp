@@ -17,8 +17,10 @@ int main()
     auto mixedItem = std::make_unique<Item>("Rusty Wooden?? Sword", ItemType::Weapon | ItemType::Junk | ItemType::Flammable);
     auto garbage = std::make_unique<Item>("garbage", ItemType::Junk);
 
+
+    sword->hasTag(ItemType::Accessory); //prints 0 as sword does not have tag 0.
     *sword += ItemType::Accessory;
-    sword->hasTag(ItemType::Potion); //prints 0 as sword does not have tag 0.
+    sword->hasTag(ItemType::Accessory);
 
     inventory.addItemSorted(std::move(healthPotion));
     inventory.addItemSorted(std::move(potionPotion));

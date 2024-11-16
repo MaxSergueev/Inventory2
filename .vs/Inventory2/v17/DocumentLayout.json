@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "C:\\SDL_GameDev\\Inventory2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Flammable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Flammable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\FoodProcessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:FoodProcessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Herb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Herb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\IBakable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:IBakable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Meat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Meat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Mushroom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Mushroom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Vegetable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Vegetable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Mushroom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Mushroom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Meat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Meat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\IBakable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:IBakable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Herb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Herb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\FoodProcessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:FoodProcessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|C:\\SDL_GameDev\\Inventory2\\Flammable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7911A5ED-B78C-4A20-83A9-D4B912C2DE4D}|Inventory2.vcxproj|solutionrelative:Flammable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,115 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Vegetable.h",
-              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Vegetable.h",
-              "RelativeDocumentMoniker": "Vegetable.h",
-              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\Vegetable.h",
-              "RelativeToolTip": "Vegetable.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-16T16:26:47.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Herb.h",
-              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Herb.h",
-              "RelativeDocumentMoniker": "Herb.h",
-              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\Herb.h",
-              "RelativeToolTip": "Herb.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-16T16:26:05.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Meat.h",
-              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Meat.h",
-              "RelativeDocumentMoniker": "Meat.h",
-              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\Meat.h",
-              "RelativeToolTip": "Meat.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-16T16:25:35.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Mushroom.h",
-              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Mushroom.h",
-              "RelativeDocumentMoniker": "Mushroom.h",
-              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\Mushroom.h",
-              "RelativeToolTip": "Mushroom.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-16T16:25:17.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FoodProcessor.h",
-              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\FoodProcessor.h",
-              "RelativeDocumentMoniker": "FoodProcessor.h",
-              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\FoodProcessor.h",
-              "RelativeToolTip": "FoodProcessor.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-16T16:23:27.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBakable.h",
-              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\IBakable.h",
-              "RelativeDocumentMoniker": "IBakable.h",
-              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\IBakable.h",
-              "RelativeToolTip": "IBakable.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-16T16:20:16.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\SDL_GameDev\\Inventory2\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-20T13:00:57.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Flammable.h",
-              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Flammable.h",
-              "RelativeDocumentMoniker": "Flammable.h",
-              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\Flammable.h",
-              "RelativeToolTip": "Flammable.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-21T06:50:34.805Z",
+              "DocumentIndex": 2,
+              "Title": "Item.cpp",
+              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Item.cpp",
+              "RelativeDocumentMoniker": "Item.cpp",
+              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\Item.cpp",
+              "RelativeToolTip": "Item.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T14:25:23.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Inventory.cpp",
               "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Inventory.cpp",
               "RelativeDocumentMoniker": "Inventory.cpp",
@@ -179,7 +101,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "Vegetable.h",
+              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Vegetable.h",
+              "RelativeDocumentMoniker": "Vegetable.h",
+              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\Vegetable.h",
+              "RelativeToolTip": "Vegetable.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T16:26:47.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Item.h",
+              "RelativeDocumentMoniker": "Item.h",
+              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\Item.h",
+              "RelativeToolTip": "Item.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T13:06:03.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Inventory.h",
               "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Inventory.h",
               "RelativeDocumentMoniker": "Inventory.h",
@@ -192,28 +140,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Item.h",
-              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Item.h",
-              "RelativeDocumentMoniker": "Item.h",
-              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\Item.h",
-              "RelativeToolTip": "Item.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "DocumentIndex": 10,
+              "Title": "FoodProcessor.h",
+              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\FoodProcessor.h",
+              "RelativeDocumentMoniker": "FoodProcessor.h",
+              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\FoodProcessor.h",
+              "RelativeToolTip": "FoodProcessor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-20T13:06:03.817Z",
+              "WhenOpened": "2024-11-16T16:23:27.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Herb.h",
+              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Herb.h",
+              "RelativeDocumentMoniker": "Herb.h",
+              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\Herb.h",
+              "RelativeToolTip": "Herb.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T16:26:05.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBakable.h",
+              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\IBakable.h",
+              "RelativeDocumentMoniker": "IBakable.h",
+              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\IBakable.h",
+              "RelativeToolTip": "IBakable.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T16:20:16.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mushroom.h",
+              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Mushroom.h",
+              "RelativeDocumentMoniker": "Mushroom.h",
+              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\Mushroom.h",
+              "RelativeToolTip": "Mushroom.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T16:25:17.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Meat.h",
+              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Meat.h",
+              "RelativeDocumentMoniker": "Meat.h",
+              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\Meat.h",
+              "RelativeToolTip": "Meat.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T16:25:35.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Item.cpp",
-              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Item.cpp",
-              "RelativeDocumentMoniker": "Item.cpp",
-              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\Item.cpp",
-              "RelativeToolTip": "Item.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-20T14:25:23.924Z",
+              "Title": "Flammable.h",
+              "DocumentMoniker": "C:\\SDL_GameDev\\Inventory2\\Flammable.h",
+              "RelativeDocumentMoniker": "Flammable.h",
+              "ToolTip": "C:\\SDL_GameDev\\Inventory2\\Flammable.h",
+              "RelativeToolTip": "Flammable.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-21T06:50:34.805Z",
               "EditorCaption": ""
             }
           ]

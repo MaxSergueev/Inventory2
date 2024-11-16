@@ -31,8 +31,9 @@
 	}
 
     bool Item::hasTag(ItemType::Type tag) const {
-        std::cout << (itemType & static_cast<std::uint8_t>(tag)) << std::endl;
-        return (itemType & static_cast<std::uint8_t>(tag)) != 0;
+        bool b = itemType & tag;
+        std::cout << b << std::endl;
+        return (b);
     }
 
     void Item::spreadFire() {
